@@ -1,0 +1,6 @@
+gradio
+google-genai
+openai
+pillow
+openai-whisper
+gtts
